@@ -138,5 +138,159 @@
     "potency": "200",
     "quantity": 4,
     "location": "MB"
+  },
+  {
+    "id": 21,
+    "name": "Lechasis",
+    "potency": "1M",
+    "quantity": 15,
+    "location": "MB"
+  },
+  {
+    "id": 22,
+    "name": "Psorinum",
+    "potency": "200",
+    "quantity": 15,
+    "location": "MB"
+  },
+  {
+    "id": 23,
+    "name": "Acid Phos",
+    "potency": "1M",
+    "quantity": 15,
+    "location": "MB"
+  },
+  {
+    "id": 24,
+    "name": "Tellurium Met",
+    "potency": "30",
+    "quantity": 15,
+    "location": "MB"
+  },
+  {
+    "id": 25,
+    "name": "Sulphur",
+    "potency": "200",
+    "quantity": 15,
+    "location": "MB"
+  },
+  {
+    "id": 26,
+    "name": "Argentum Nitricum",
+    "potency": "1M",
+    "quantity": 15,
+    "location": "MB"
+  },
+  {
+    "id": 27,
+    "name": "Kreosote",
+    "potency": "200",
+    "quantity": 12,
+    "location": "Amul2"
+  },
+  {
+    "id": 28,
+    "name": "Chelidonium",
+    "potency": "1M",
+    "quantity": 10,
+    "location": "Amul2"
+  },
+  {
+    "id": 29,
+    "name": "Rhus Tox",
+    "potency": "200",
+    "quantity": 2,
+    "location": "Amul2"
+  },
+  {
+    "id": 30,
+    "name": "Berberis",
+    "potency": "30",
+    "quantity": 7,
+    "location": "Amul2"
+  },
+  {
+    "id": 31,
+    "name": "Chamomila",
+    "potency": "1M",
+    "quantity": 5,
+    "location": "Amul2"
+  },
+  {
+    "id": 32,
+    "name": "Belladonna",
+    "potency": "3X",
+    "quantity": 15,
+    "location": "Amul2"
+  },
+  {
+    "id": 33,
+    "name": "Sepia",
+    "potency": "1M",
+    "quantity": 15,
+    "location": "Ammul2"
+  },
+  {
+    "id": 34,
+    "name": "Natrum Carb",
+    "potency": "30",
+    "quantity": 10,
+    "location": "Amul2"
+  },
+  {
+    "id": 35,
+    "name": "Calcarea flour",
+    "potency": "1M",
+    "quantity": 15,
+    "location": "Amul2"
+  },
+  {
+    "id": 36,
+    "name": "Ledum Pal",
+    "potency": "1M",
+    "quantity": 12,
+    "location": "Amul2"
+  },
+  {
+    "id": 37,
+    "name": "Spigelya",
+    "potency": "1M",
+    "quantity": 3,
+    "location": "Amul2"
+  },
+  {
+    "id": 38,
+    "name": "Carbo Veg",
+    "potency": "200",
+    "quantity": 12,
+    "location": "Amul2"
+  },
+  {
+    "id": 39,
+    "name": "Pulsatilla",
+    "potency": "1M",
+    "quantity": 5,
+    "location": "Amul2"
+  },
+  {
+    "id": 40,
+    "name": "Calendula Officinalis",
+    "potency": "30",
+    "quantity": 7,
+    "location": "Amul2"
+  },
+  {
+    "id": 41,
+    "name": "Robinia",
+    "potency": "30",
+    "quantity": 15,
+    "location": "Amul2"
+  },
+  {
+    "id": 42,
+    "name": "Acid Flour",
+    "potency": "1M",
+    "quantity": 5,
+    "location": "Amul2"
   }
 ]
