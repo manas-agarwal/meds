@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Merc Sol",
+    "potency": "30",
+    "quantity": 10,
+    "location": "Gluta"
+  },
+  {
+    "id": 2,
+    "name": "Hekla Lava",
+    "potency": "30",
+    "quantity": 15,
+    "location": "Gluta"
+  },
+  {
+    "id": 3,
+    "name": "Hekla Lava",
+    "potency": "200",
+    "quantity": 10,
+    "location": "Gluta"
+  },
+  {
+    "id": 4,
+    "name": "Kalmia",
+    "potency": "30",
+    "quantity": 5,
+    "location": "Gluta"
+  },
+  {
+    "id": 5,
+    "name": "Nat Mur",
+    "potency": "200",
+    "quantity": 5,
+    "location": "Gluta"
+  },
+  {
+    "id": 6,
+    "name": "Silicea",
+    "potency": "1M",
+    "quantity": 10,
+    "location": "Gluta"
+  },
+  {
+    "id": 7,
+    "name": "Pulsatila",
+    "potency": "30",
+    "quantity": 15,
+    "location": "Gluta"
+  },
+  {
+    "id": 8,
+    "name": "Euphrasia",
+    "potency": "200",
+    "quantity": 7,
+    "location": "Gluta"
+  },
+  {
+    "id": 9,
+    "name": "Lachesis",
+    "potency": "1M",
+    "quantity": 3,
+    "location": "Gluta"
+  },
+  {
+    "id": 10,
+    "name": "Merc Sol",
+    "potency": "1M",
+    "quantity": 2,
+    "location": "Creat"
+  },
+  {
+    "id": 11,
+    "name": "Kreosote",
+    "potency": "30",
+    "quantity": 3,
+    "location": "Creat"
+  },
+  {
+    "id": 12,
+    "name": "Arnica",
+    "potency": "200",
+    "quantity": 15,
+    "location": "Creat"
+  },
+  {
+    "id": 13,
+    "name": "Ratan Hia",
+    "potency": "30",
+    "quantity": 7,
+    "location": "Creat"
+  },
+  {
+    "id": 14,
+    "name": "Bryonia",
+    "potency": "30",
+    "quantity": 5,
+    "location": "Creat"
+  },
+  {
+    "id": 15,
+    "name": "Digitalis",
+    "potency": "30",
+    "quantity": 3,
+    "location": "Creat"
+  },
+  {
+    "id": 16,
+    "name": "Aconite",
+    "potency": "30",
+    "quantity": 10,
+    "location": "Creat"
+  },
+  {
+    "id": 17,
+    "name": "Spigelia",
+    "potency": "1M",
+    "quantity": 12,
+    "location": "Creat"
+  },
+  {
+    "id": 18,
+    "name": "Alumina",
+    "potency": "30",
+    "quantity": 7,
+    "location": "Creat"
+  },
+  {
+    "id": 19,
+    "name": "Carbo Veg",
+    "potency": "200",
+    "quantity": 15,
+    "location": "MB"
+  },
+  {
+    "id": 20,
+    "name": "Thuja",
+    "potency": "200",
+    "quantity": 4,
+    "location": "MB"
+  }
+]
