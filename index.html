@@ -30,7 +30,7 @@
   </main>
 
   <script>
-    // Read-only view: loads data/medicines.json and filters by name. Nothing is saved.
+    // Read-only view: loads medicines.json and filters by name. Nothing is saved.
     let medicines = [];
     const $ = (id) => document.getElementById(id);
 
@@ -67,15 +67,15 @@
 
     async function load() {
       try {
-        const res = await fetch("data/medicines.json", { cache: "no-store" });
+        const res = await fetch("medicines.json", { cache: "no-store" });
         if (!res.ok) throw new Error("HTTP " + res.status);
         const data = await res.json();
         if (!Array.isArray(data)) throw new Error("the file must contain a JSON array");
         medicines = data;
       } catch (e) {
         showMessage(location.protocol === "file:"
-          ? "This page was opened as a file, so the browser blocked loading data/medicines.json. Open it through IIS or a local static server (e.g. python -m http.server)."
-          : "Could not load data/medicines.json (" + e.message + ").");
+          ? "This page was opened as a file, so the browser blocked loading medicines.json. Open it through IIS or a local static server (e.g. python -m http.server)."
+          : "Could not load medicines.json (" + e.message + ").");
       }
       render();
     }
