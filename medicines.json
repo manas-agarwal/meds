@@ -228,7 +228,7 @@
     "name": "Sepia",
     "potency": "1M",
     "quantity": 15,
-    "location": "Ammul2"
+    "location": "Amul2"
   },
   {
     "id": 34,
@@ -292,5 +292,383 @@
     "potency": "1M",
     "quantity": 5,
     "location": "Amul2"
+  },
+  {
+    "id": 43,
+    "name": "Acotine Nap",
+    "potency": "30",
+    "quantity": 12,
+    "location": "Amul1"
+  },
+  {
+    "id": 44,
+    "name": "Eupatorium perf",
+    "potency": "30",
+    "quantity": 10,
+    "location": "Amul1"
+  },
+  {
+    "id": 45,
+    "name": "Kali Carb",
+    "potency": "30",
+    "quantity": 10,
+    "location": "Amul1"
+  },
+  {
+    "id": 46,
+    "name": "Sulfur",
+    "potency": "30",
+    "quantity": 15,
+    "location": "Amul1"
+  },
+  {
+    "id": 47,
+    "name": "Cimicifuga",
+    "potency": "200",
+    "quantity": 10,
+    "location": "Amul1"
+  },
+  {
+    "id": 48,
+    "name": "Merc Sol",
+    "potency": "30",
+    "quantity": 8,
+    "location": "Amul1"
+  },
+  {
+    "id": 49,
+    "name": "Anacardium",
+    "potency": "30",
+    "quantity": 7,
+    "location": "Amul1"
+  },
+  {
+    "id": 50,
+    "name": "Ferrum Phos",
+    "potency": "30",
+    "quantity": 12,
+    "location": "Amul1"
+  },
+  {
+    "id": 51,
+    "name": "Dioscorea",
+    "potency": "30",
+    "quantity": 15,
+    "location": "Amul1"
+  },
+  {
+    "id": 52,
+    "name": "Hydrastis",
+    "potency": "30",
+    "quantity": 3,
+    "location": "Amul1"
+  },
+  {
+    "id": 53,
+    "name": "Chinanium Ars",
+    "potency": "30",
+    "quantity": 5,
+    "location": "Amul1"
+  },
+  {
+    "id": 54,
+    "name": "Silicea",
+    "potency": "30",
+    "quantity": 3,
+    "location": "Amul1"
+  },
+  {
+    "id": 55,
+    "name": "Kalmia",
+    "potency": "30",
+    "quantity": 5,
+    "location": "Amul4"
+  },
+  {
+    "id": 56,
+    "name": "Lycopodium",
+    "potency": "200",
+    "quantity": 7,
+    "location": "Amul4"
+  },
+  {
+    "id": 57,
+    "name": "Lacnanthus",
+    "potency": "200",
+    "quantity": 10,
+    "location": "Amul4"
+  },
+  {
+    "id": 58,
+    "name": "Rus Tox",
+    "potency": "1M",
+    "quantity": 3,
+    "location": "Amul4"
+  },
+  {
+    "id": 59,
+    "name": "Eupotorium Perf",
+    "potency": "200",
+    "quantity": 7,
+    "location": "Amul4"
+  },
+  {
+    "id": 60,
+    "name": "Heper Sulf",
+    "potency": "1M",
+    "quantity": 5,
+    "location": "Amul4"
+  },
+  {
+    "id": 61,
+    "name": "Thuja",
+    "potency": "1M",
+    "quantity": 10,
+    "location": "Amul4"
+  },
+  {
+    "id": 62,
+    "name": "Acid Flour",
+    "potency": "1M",
+    "quantity": 7,
+    "location": "Amul4"
+  },
+  {
+    "id": 63,
+    "name": "Colocynth",
+    "potency": "30",
+    "quantity": 2,
+    "location": "Amul4"
+  },
+  {
+    "id": 64,
+    "name": "Carbo Veg",
+    "potency": "30",
+    "quantity": 5,
+    "location": "Cello1"
+  },
+  {
+    "id": 65,
+    "name": "Ruta",
+    "potency": "30",
+    "quantity": 2,
+    "location": "Cello1"
+  },
+  {
+    "id": 66,
+    "name": "Callendula",
+    "potency": "30",
+    "quantity": 3,
+    "location": "Cello1"
+  },
+  {
+    "id": 67,
+    "name": "Iodium",
+    "potency": "200",
+    "quantity": 2,
+    "location": "Cello1"
+  },
+  {
+    "id": 68,
+    "name": "Ignatia",
+    "potency": "200",
+    "quantity": 10,
+    "location": "Cello1"
+  },
+  {
+    "id": 69,
+    "name": "Rus Tox",
+    "potency": "200",
+    "quantity": 9,
+    "location": "Cello1"
+  },
+  {
+    "id": 70,
+    "name": "Aesculus Hip",
+    "potency": "200",
+    "quantity": 4,
+    "location": "Cello1"
+  },
+  {
+    "id": 71,
+    "name": "Arnica",
+    "potency": "30",
+    "quantity": 7,
+    "location": "Cello1"
+  },
+  {
+    "id": 72,
+    "name": "Euphrasia",
+    "potency": "200",
+    "quantity": 8,
+    "location": "Cello1"
+  },
+  {
+    "id": 73,
+    "name": "Iris Vers",
+    "potency": "30",
+    "quantity": 5,
+    "location": "Cello1"
+  },
+  {
+    "id": 74,
+    "name": "Merc Sol",
+    "potency": "1M",
+    "quantity": 3,
+    "location": "Cello1"
+  },
+  {
+    "id": 75,
+    "name": "China",
+    "potency": "30",
+    "quantity": 2,
+    "location": "Cello1"
+  },
+  {
+    "id": 76,
+    "name": "Aesculus Hip",
+    "potency": "1M",
+    "quantity": 12,
+    "location": "Chat1"
+  },
+  {
+    "id": 77,
+    "name": "Kalmia",
+    "potency": "1M",
+    "quantity": 2,
+    "location": "Chat1"
+  },
+  {
+    "id": 78,
+    "name": "Natrum Mur",
+    "potency": "200",
+    "quantity": 15,
+    "location": "Chat1"
+  },
+  {
+    "id": 79,
+    "name": "Acid Nitricum",
+    "potency": "1M",
+    "quantity": 10,
+    "location": "Chat1"
+  },
+  {
+    "id": 80,
+    "name": "Arnica",
+    "potency": "30",
+    "quantity": 20,
+    "location": "Chat1"
+  },
+  {
+    "id": 81,
+    "name": "Actaea Spicata",
+    "potency": "30",
+    "quantity": 12,
+    "location": "Chat1"
+  },
+  {
+    "id": 82,
+    "name": "Acid Benzoic",
+    "potency": "30",
+    "quantity": 5,
+    "location": "Chat1"
+  },
+  {
+    "id": 83,
+    "name": "Phytolacca Decandra",
+    "potency": "30",
+    "quantity": 7,
+    "location": "Chat1"
+  },
+  {
+    "id": 84,
+    "name": "Natrum Mur",
+    "potency": "30",
+    "quantity": 10,
+    "location": "Chat1"
+  },
+  {
+    "id": 85,
+    "name": "Sulphur",
+    "potency": "200",
+    "quantity": 2,
+    "location": "Chat1"
+  },
+  {
+    "id": 86,
+    "name": "Arsenic Alb",
+    "potency": "1M",
+    "quantity": 8,
+    "location": "Chat2"
+  },
+  {
+    "id": 87,
+    "name": "Iris Vers",
+    "potency": "30",
+    "quantity": 12,
+    "location": "Chat2"
+  },
+  {
+    "id": 88,
+    "name": "Pulsatilla",
+    "potency": "1M",
+    "quantity": 10,
+    "location": "Chat2"
+  },
+  {
+    "id": 89,
+    "name": "Sulphur",
+    "potency": "200",
+    "quantity": 10,
+    "location": "Chat2"
+  },
+  {
+    "id": 90,
+    "name": "Rus Tox",
+    "potency": "200",
+    "quantity": 10,
+    "location": "Chat2"
+  },
+  {
+    "id": 91,
+    "name": "China",
+    "potency": "30",
+    "quantity": 3,
+    "location": "Chat2"
+  },
+  {
+    "id": 92,
+    "name": "Mag Phos",
+    "potency": "200",
+    "quantity": 10,
+    "location": "Chat2"
+  },
+  {
+    "id": 93,
+    "name": "Spongia",
+    "potency": "30",
+    "quantity": 7,
+    "location": "Chat2"
+  },
+  {
+    "id": 94,
+    "name": "Lachesis",
+    "potency": "200",
+    "quantity": 10,
+    "location": "Chat2"
+  },
+  {
+    "id": 95,
+    "name": "Spigelia",
+    "potency": "1M",
+    "quantity": 12,
+    "location": "Chat2"
+  },
+  {
+    "id": 96,
+    "name": "Gelesinium",
+    "potency": "30",
+    "quantity": 7,
+    "location": "Chat2"
   }
 ]
